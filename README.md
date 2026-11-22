@@ -2,8 +2,6 @@
 
 A PostgreSQL schema for a restaurant: people (employees and customers), staff roles, user accounts and a menu with categories (allergens and ingredients). Business rules are enforced through constraints, triggers and a set of stored operations.
 
-![PostgreSQL 14+](https://img.shields.io/badge/PostgreSQL-14%2B-336791)
-
 ## Contents
 
 | Script | Purpose |
