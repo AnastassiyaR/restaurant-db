@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS customer                       CASCADE;
+DROP TABLE IF EXISTS customer_status_type           CASCADE;
+DROP TABLE IF EXISTS menu_item_category_assignment  CASCADE;
+DROP TABLE IF EXISTS menu_item                      CASCADE;
+DROP TABLE IF EXISTS menu_item_status_type          CASCADE;
+DROP TABLE IF EXISTS menu_item_category             CASCADE;
+DROP TABLE IF EXISTS menu_item_category_type        CASCADE;
+DROP TABLE IF EXISTS menu_item_type                 CASCADE;
+DROP TABLE IF EXISTS employee_role_assignment       CASCADE;
+DROP TABLE IF EXISTS employee_role                  CASCADE;
+DROP TABLE IF EXISTS employee                       CASCADE;
+DROP TABLE IF EXISTS employee_status_type           CASCADE;
+DROP TABLE IF EXISTS user_account                   CASCADE;
+DROP TABLE IF EXISTS person                         CASCADE;
+DROP TABLE IF EXISTS person_status_type             CASCADE;
+DROP TABLE IF EXISTS country                        CASCADE;
